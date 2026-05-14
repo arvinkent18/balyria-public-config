@@ -1,13 +1,13 @@
 {
   "android": {
     "minimumSupportedVersion": "1.0.0",
-    "minimumSupportedBuild": 26,
+    "minimumSupportedBuild": 28,
     "latestVersion": "1.0.0",
     "latestBuild": 28,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.balyria.app",
     "webStoreUrl": "https://play.google.com/store/apps/details?id=com.balyria.app",
-    "force": false,
-    "message": "A required Balyria test update is available. Please update from the Play Store testing page."
+    "force": true,
+    "message": "A required Balyria update is available. Please tap update button."
   },
   "ios": {
     "minimumSupportedVersion": "1.0.0",
