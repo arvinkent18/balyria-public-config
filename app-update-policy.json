@@ -7,7 +7,15 @@
     "storeUrl": "https://play.google.com/store/apps/details?id=com.balyria.app",
     "webStoreUrl": "https://play.google.com/store/apps/details?id=com.balyria.app",
     "force": true,
-    "message": "A required Balyria update is available. Please tap update button."
+    "badge": "Closed testing update",
+    "title": "Update available",
+    "message": "A new Balyria build is available. Please update from Google Play when the Update button appears.",
+    "trustMessage": "Your local finance data stays protected on this device.",
+    "ctaLabel": "Update Balyria",
+    "helperText": "If Google Play still shows Open, wait a few minutes and reopen the Play Store testing page.",
+    "footerText": "Build updates keep your planner accurate and secure.",
+    "installedLabel": "Installed",
+    "requiredLabel": "Latest"
   },
   "ios": {
     "minimumSupportedVersion": "1.0.0",
@@ -17,6 +25,14 @@
     "storeUrl": "",
     "webStoreUrl": "",
     "force": false,
-    "message": "A required Balyria update is available."
+    "badge": "Balyria update",
+    "title": "Update available",
+    "message": "A new Balyria update is available.",
+    "trustMessage": "Your local finance data stays protected on this device.",
+    "ctaLabel": "Update Balyria",
+    "helperText": "Open the App Store when this update becomes available.",
+    "footerText": "Build updates keep your planner accurate and secure.",
+    "installedLabel": "Installed",
+    "requiredLabel": "Latest"
   }
 }
