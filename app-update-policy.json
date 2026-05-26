@@ -6,7 +6,7 @@
     "latestBuild": 36,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.balyria.app",
     "webStoreUrl": "https://play.google.com/store/apps/details?id=com.balyria.app",
-    "force": false,
+    "force": true,
     "badge": "Balyria update",
     "title": "Update available",
     "message": "Balyria 1.0.1 is available with important fixes and improvements.",
