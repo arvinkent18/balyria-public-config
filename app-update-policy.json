@@ -1,9 +1,9 @@
 {
   "android": {
-    "minimumSupportedVersion": "1.0.0",
-    "minimumSupportedBuild": 36,
-    "latestVersion": "1.0.1",
-    "latestBuild": 36,
+    "minimumSupportedVersion": "1.0.2",
+    "minimumSupportedBuild": 37,
+    "latestVersion": "1.0.2",
+    "latestBuild": 37,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.balyria.app",
     "webStoreUrl": "https://play.google.com/store/apps/details?id=com.balyria.app",
     "force": true,
