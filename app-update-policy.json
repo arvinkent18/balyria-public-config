@@ -9,7 +9,7 @@
     "force": true,
     "badge": "Balyria update",
     "title": "Update available",
-    "message": "Balyria 1.0.1 is available with important fixes and improvements.",
+    "message": "Balyria 1.0.2 is available with important fixes and improvements.",
     "trustMessage": "Your local finance data stays protected on this device.",
     "ctaLabel": "Update Balyria",
     "helperText": "Open Google Play to install the latest version when the Update button appears.",
